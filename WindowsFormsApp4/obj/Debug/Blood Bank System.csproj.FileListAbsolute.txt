@@ -1,0 +1,86 @@
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Guna.UI.dll
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank System.csproj.AssemblyReference.cache
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank System.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Blood_Stock.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Blood_Transfer.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Component1.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DashBoard.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Donor.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Login.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MainForm.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Patient.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Splash.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.View_Donors.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ViewPatients.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank System.csproj.GenerateResource.cache
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank System.csproj.CoreCompileInputs.cache
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank System.csproj.CopyComplete
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DonateBlood.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Employee.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.AdminLogin.resources
+C:\Users\mhmda\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Guna.UI2.dll
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank System.csproj.AssemblyReference.cache
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.AdminLogin.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Blood_Stock.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Blood_Transfer.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Component1.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DashBoard.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DonateBlood.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Donor.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Employee.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Login.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MainForm.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Patient.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.View_Donors.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ViewPatients.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank System.csproj.GenerateResource.cache
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank System.csproj.CoreCompileInputs.cache
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank System.csproj.CopyComplete
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Blood Bank.exe.config
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Blood Bank.exe.manifest
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Blood Bank.application
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Blood Bank.exe
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Blood Bank.pdb
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank.TrustInfo.xml
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank.exe.manifest
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank.application
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank.exe
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Blood Bank.pdb
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\BloodBank.Properties.Resources.resources
+D:\MTI\Software\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\BloodBankManagementSystem.LoadingScreen.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\bin\Debug\Blood Bank.exe.config
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\bin\Debug\Blood Bank.exe.manifest
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\bin\Debug\Blood Bank.application
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\bin\Debug\Blood Bank.exe
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\bin\Debug\Blood Bank.pdb
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\Blood Bank System.csproj.AssemblyReference.cache
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.AdminLogin.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Blood_Stock.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Blood_Transfer.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Component1.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DashBoard.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DonateBlood.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Donor.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Employee.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\BloodBankManagementSystem.LoadingScreen.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Login.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MainForm.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Patient.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\BloodBank.Properties.Resources.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.View_Donors.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ViewPatients.resources
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\Blood Bank System.csproj.GenerateResource.cache
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\Blood Bank System.csproj.CoreCompileInputs.cache
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\Blood Bank.TrustInfo.xml
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\Blood Bank.exe.manifest
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\Blood Bank.application
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\Blood Bank System.csproj.CopyComplete
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\Blood Bank.exe
+D:\MTI\Software\Blood bank Management System\WindowsFormsApp4\obj\Debug\Blood Bank.pdb
